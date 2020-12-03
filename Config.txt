@@ -1,0 +1,8 @@
+--Remove the words between with what they specify, you can have infinite searches just write each one on a new line--
+{'URL':'link to memoryexpress search', 'budgetLow': int for min price shown, 'budgetHigh': int for max price shown, 'filterSale': True/False}
+
+--Enter list of emails you want to recieve the message--
+['example1@email.com', 'example2@email.com']
+
+--Email the message will be sent from-- 
+{'sender':'example3@email.com','password':'1234'}
