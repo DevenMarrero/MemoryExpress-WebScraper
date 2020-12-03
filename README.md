@@ -1,5 +1,5 @@
 # MemoryExpress-WebScraper
-Program to scrape product names and prices from memoryexpress.com. Has ability to auto-run and filter products.
+Program to scrape product names and prices from [memoryexpress.com](https://www.memoryexpress.com/). Has ability to auto-run and filter products.
 
 Run Manual.py to run the program manually once in terminal, results will be printed to terminal.
 
